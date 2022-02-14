@@ -1,1 +1,1 @@
-# T-Rex-Ultimate_v2.1
+# trex-v.2
