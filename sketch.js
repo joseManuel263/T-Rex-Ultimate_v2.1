@@ -96,7 +96,7 @@ function draw() {
   text("High Score: "+highScore+".",805,75);
 
   if(gameState === STATE){
-    text('Para empezar presiona "Space" o toca una vez la pantalla.\nPara salta presiona "Space" o toca una vez la pantalla.\nPara "super salto" presiona "Space + c" o toca dos vez la pantalla.\n\nCuidado no debes tocar ni un obstáculo.\n\n"BUENA SUERTE" ٩(˘◡˘)۶',width/9,height/3);
+    text('Para empezar presiona "Space" o toca una vez la pantalla.\nPara saltar presiona "Space" o toca una vez la pantalla.\nPara "super salto" presiona "Space + c" o toca dos vez la pantalla.\n\nCuidado no debes tocar ni un obstáculo.\n\n"BUENA SUERTE" ٩(˘◡˘)۶',width/9,height/3);
     gameOver.visible = false;
     restart.visible = false;
 
